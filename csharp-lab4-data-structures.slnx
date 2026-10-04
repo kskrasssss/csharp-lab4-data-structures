@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task1_Records/Task1_Records.csproj" />
+  <Project Path="Task2_Switch/Task2_Switch.csproj" />
+  <Project Path="Task3_Structs/Task3_Structs.csproj" />
+  <Project Path="Task4_DateTime/Task4_DateTime.csproj" />
+</Solution>
